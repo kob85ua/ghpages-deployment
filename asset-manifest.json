@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ghpages-deployment/goit-react-hw01/static/js/main.59bfd9d7.chunk.js",
-    "main.js.map": "/ghpages-deployment/goit-react-hw01/static/js/main.59bfd9d7.chunk.js.map",
-    "runtime-main.js": "/ghpages-deployment/goit-react-hw01/static/js/runtime-main.1ca32508.js",
-    "runtime-main.js.map": "/ghpages-deployment/goit-react-hw01/static/js/runtime-main.1ca32508.js.map",
-    "static/js/2.14d8fef0.chunk.js": "/ghpages-deployment/goit-react-hw01/static/js/2.14d8fef0.chunk.js",
-    "static/js/2.14d8fef0.chunk.js.map": "/ghpages-deployment/goit-react-hw01/static/js/2.14d8fef0.chunk.js.map",
-    "index.html": "/ghpages-deployment/goit-react-hw01/index.html",
-    "precache-manifest.e5cafe0dc065f12c59e462e8f1a233a5.js": "/ghpages-deployment/goit-react-hw01/precache-manifest.e5cafe0dc065f12c59e462e8f1a233a5.js",
-    "service-worker.js": "/ghpages-deployment/goit-react-hw01/service-worker.js",
-    "static/js/2.14d8fef0.chunk.js.LICENSE.txt": "/ghpages-deployment/goit-react-hw01/static/js/2.14d8fef0.chunk.js.LICENSE.txt"
+    "main.js": "/ghpages-deployment/static/js/main.59bfd9d7.chunk.js",
+    "main.js.map": "/ghpages-deployment/static/js/main.59bfd9d7.chunk.js.map",
+    "runtime-main.js": "/ghpages-deployment/static/js/runtime-main.d41db6bf.js",
+    "runtime-main.js.map": "/ghpages-deployment/static/js/runtime-main.d41db6bf.js.map",
+    "static/js/2.a598fded.chunk.js": "/ghpages-deployment/static/js/2.a598fded.chunk.js",
+    "static/js/2.a598fded.chunk.js.map": "/ghpages-deployment/static/js/2.a598fded.chunk.js.map",
+    "index.html": "/ghpages-deployment/index.html",
+    "precache-manifest.bf713cba9dcf7faab8e7a5bb19cf1ef4.js": "/ghpages-deployment/precache-manifest.bf713cba9dcf7faab8e7a5bb19cf1ef4.js",
+    "service-worker.js": "/ghpages-deployment/service-worker.js",
+    "static/js/2.a598fded.chunk.js.LICENSE.txt": "/ghpages-deployment/static/js/2.a598fded.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ca32508.js",
-    "static/js/2.14d8fef0.chunk.js",
+    "static/js/runtime-main.d41db6bf.js",
+    "static/js/2.a598fded.chunk.js",
     "static/js/main.59bfd9d7.chunk.js"
   ]
 }
